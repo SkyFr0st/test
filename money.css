@@ -1,0 +1,48 @@
+body{
+    background-color:thistle ;
+}
+h1{
+    font-size: 50px;
+    border: 3px solid transparent;
+    background-color: black;
+    text-align: center;
+    width: 35%;
+    margin-left: 32.5%;
+    color: white;
+}
+.gbp{
+    background-color: aquamarine;
+    font-size: 40px;
+    width: 30%;
+    margin-left: 34.5%;
+    border: 10px solid transparent;
+    border-radius: 20px;
+    text-align: center;
+    color: blueviolet;
+}
+.but1{
+    font-size: 30px;
+    margin-top: 4px;
+}
+.res{
+    text-shadow:
+    0 0 5px #e1f5fe,
+    0 0 10px #b3e5fc,
+    0 0 20px #81d4fa,
+    0 0 40px #4fc3f7,
+    0 0 80px #29b6f6,
+    0 0 90px #03a9f4,
+    0 0 90px #039be5,
+    0 0 100px #0288d1,
+    0 0 150px #0277bd;
+}
+.num1{
+    border-radius: 10px;
+    font-size: 50%;
+    width: 50%;
+    height: 50%;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+}

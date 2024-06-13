@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(183, 207, 250);
+}
+.all{
+    border: 20px solid black;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: bisque;
+}
+a{
+    text-decoration: none;
+}
+.tet{
+    color: orangered;
+    margin-top: 20px; 
+    border: 4px solid greenyellow;
+}
+.but1{
+    margin-top: 15px;
+    background-color: yellow;
+    color: tomato;
+    border-radius: 20px;
+    outline-style: ridge;
+    outline-color: grey;
+    font-size: 20px;
+}
+.res{
+    margin-top: 15px;
+    background-color: rgb(225, 0, 255);
+    color: snow;
+    border-radius: 20px;
+    outline-style: ridge;
+    outline-color: grey;
+    font-size: 30px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
